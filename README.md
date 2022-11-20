@@ -1,6 +1,6 @@
 # LenovoConsMode
 
-A simple bash script to turn ON and OFF Comeservation Mode on Lenovo laptops.
+A simple bash script to turn ON or OFF Comeservation Mode on Lenovo laptops.
 
 Unless you have Lenovo Legion 5, you will have to find the right path for your conservation_mode file.
 
