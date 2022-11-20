@@ -6,9 +6,11 @@ Unless you have Lenovo Legion 5, you will have to find the right path for your c
 
 Use following command:
 sudo find / -type f -name conservation_mode
+
 Copy and replace the path in the file with location of your file.
 
-don't forget to add permissions:
+Don't forget to add permissions:
+
 sudo chmod +x fcm.sh
 
 Run from commandline ./cm.sh or bash cm.sh
