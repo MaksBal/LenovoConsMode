@@ -6,6 +6,6 @@ sudo find / -type f -name conservation_mode
 Copy and replace the path in the file with location of your file.
 
 don't forget to add permissions:
-sudo chmod +x filename.sh
+sudo chmod +x fcm.sh
 
-Run from commandline ./filename.sh or bash filename.sh
+Run from commandline ./cm.sh or bash cm.sh
