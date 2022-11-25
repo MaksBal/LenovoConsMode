@@ -11,6 +11,6 @@ Copy and replace the path in the file with location of your file.
 
 Don't forget to add permissions:
 
-sudo chmod +x fcm.sh
+sudo chmod +x cm.sh
 
 Run from commandline ./cm.sh or bash cm.sh
